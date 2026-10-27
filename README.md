@@ -39,6 +39,7 @@ Commands are namespaced under the plugin, e.g. `/comfy-cloud:generate-image`, `/
 | `/comfy-cloud:search-models` | Search available models |
 | `/comfy-cloud:search-nodes` | Search available nodes |
 | `/comfy-cloud:search-templates` | Search workflow templates |
+| `/comfy-cloud:compare-production-methods` | Compare source-backed techniques and limitations before choosing a workflow |
 | `/comfy-cloud:help` | Show what the Comfy Cloud tools can do |
 | `/comfy-cloud:combine-people` | Composite a user's photo with another person |
 | `/comfy-cloud:rickroll` | Exactly what it sounds like |
